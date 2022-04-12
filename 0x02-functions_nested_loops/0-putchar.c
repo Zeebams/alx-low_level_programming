@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
-* main - Print the word "putchar in a new line"
+ * main-main block
+* Description:Print -putchar in a new line
 *
 * Return: Always 0 (Success)
 */
@@ -9,9 +10,9 @@
 int main(void)
 {
 	int i;
-	char p[] = "Holberton";
+	char p[] = "putchar";
 
-	for (i = 0; i < 9; i++)
+	for (i = 0; i < 7; i++)
 		{
 		_putchar(p[i]);
 		}
