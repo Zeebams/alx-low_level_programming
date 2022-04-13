@@ -7,6 +7,6 @@
 */
 int main(void)
 {
-	times_table(num =0: num <= 9; num++);
+	times_table (num =0: num <= 9; num++);
 	return (0);
 }
